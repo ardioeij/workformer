@@ -1,4 +1,4 @@
-# TextToSsfWf
+![image](https://github.com/user-attachments/assets/5c47b6dc-00df-467d-b454-7b781970031e)# TextToSsfWf
 
 Requirements:
 
@@ -19,3 +19,8 @@ Requirements:
 Win11
 Visual Studio 2022
 .NET 7.0
+
+Download Text-to-C# dataset from:
+https://ai4code.blob.core.windows.net/thevault/v1/function/c_sharp.zip
+https://github.com/FSoft-AI4Code/TheVault
+Then extract the zip file
