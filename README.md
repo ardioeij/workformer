@@ -16,5 +16,6 @@ Cuda Toolkit version 11.3.0: cuda_11.3.0_465.89_win10.exe
 
 Requirements:
 
+Win11
 Visual Studio 2022
 .NET 7.0
