@@ -1,3 +1,17 @@
+# Workflow Transformer
+This repository is prepare to publish all of my PhD study works. 
+
+
+# Publications:
+
+Output Structure Simplification to Enhance Transformer-Based Text-to-Workflow Translation. 
+Ardi Oeij. 
+PhD Student in Artificial Intelligence at Lincoln University, New Zealand. 
+Supervisors: 
+Associate Professor Patricia Anthony. 
+Associate Professor Stuart Charters. 
+
+
 # TextToSsfWf
 
 Requirements:
@@ -33,11 +47,3 @@ https://github.com/FSoft-AI4Code/TheVault
 Then extract the zip file. 
 
 
-# Publications:
-
-Output Structure Simplification to Enhance Transformer-Based Text-to-Workflow Translation. 
-Ardi Oeij. 
-PhD Student in Artificial Intelligence at Lincoln University, New Zealand. 
-Supervisors: 
-Associate Professor Patricia Anthony. 
-Associate Professor Stuart Charters. 
