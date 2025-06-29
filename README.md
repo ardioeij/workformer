@@ -1,15 +1,17 @@
 # Workflow Transformer
-This repository is prepare to publish all of my PhD study works. 
+This repository is prepared to publish all of my PhD study works. 
 
-
-# Publications:
-
-Output Structure Simplification to Enhance Transformer-Based Text-to-Workflow Translation. 
 Ardi Oeij. 
 PhD Student in Artificial Intelligence at Lincoln University, New Zealand. 
 Supervisors: 
 Associate Professor Patricia Anthony. 
 Associate Professor Stuart Charters. 
+
+
+# Publications:
+
+Output Structure Simplification to Enhance Transformer-Based Text-to-Workflow Translation. 
+
 
 
 # TextToSsfWf
