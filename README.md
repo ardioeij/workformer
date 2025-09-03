@@ -6,6 +6,7 @@ PhD Student in Artificial Intelligence at Lincoln University, New Zealand.
 Supervisors: 
 Associate Professor Patricia Anthony. 
 Associate Professor Stuart Charters. 
+2023 - 2027.
 
 
 # Publications:
