@@ -112,24 +112,7 @@ def translate(translator, prompt, max_tokens = 128):
     return text_output, translated_text
 
 def split_text(text):
-    """
-    Splits text by:
-    - CamelCase/PascalCase → spaces between words
-    - Specific delimiters → { } : , " and space
-    - Collapses multiple spaces to one
-    - Returns lowercase text
-    Example: 'ANewMessage:Hello{World}' → 'a new message hello world'
-    """
-    # 1. Insert spaces between CamelCase words
-    text = re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', text)
-    text = re.sub(r'(?<=[A-Z])(?=[A-Z][a-z])', ' ', text)
-
-    # 2. Replace split characters with spaces
-    text = re.sub(r'[{}:,\"\']', ' ', text)
-
-    # 3. Collapse multiple spaces into one
     text = re.sub(r'\s+', ' ', text)
-
     return text.lower().strip()
 
 def clean_text(text):
