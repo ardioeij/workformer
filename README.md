@@ -26,6 +26,19 @@ tensorflow-datasets 4.9.2.
 tensorflow-text 2.10.0. 
 Cuda Toolkit version 11.3.0: cuda_11.3.0_465.89_win10.exe. 
 
+Install Cude Toolkit
+https://developer.nvidia.com/cuda-11.3.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local
+pip install tensorflow==2.10.1
+pip install tensorflow-text==2.10.0
+pip install tensorflow-datasets==4.9.2
+pip install faiss-cpu==1.8.0
+pip install scikit-learn==1.5.1
+pip install nltk==3.9.1
+pip install matplotlib==3.9.0
+pip install --upgrade numpy==1.26.4
+pip install --upgrade matplotlib==3.9.2
+
+
 Read the paper PDF file for more details. 
 
 Download resources: 
