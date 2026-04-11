@@ -19,8 +19,7 @@ https://researchers.lincoln.ac.nz/stuart.charters
 # Publications:
 
 Output Structure Simplification to Enhance Transformer-Based Text-to-Workflow Translation.
-Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2025, https://www.pricai.org/2025.
-https://easychair.org/smart-program/PRICAI2025/2025-11-19.html#talk:296477
+Proceedings of the Pacific Rim International Conference on Artificial Intelligence (PRICAI) 2025, https://link.springer.com/chapter/10.1007/978-981-95-7081-2_35
 
 # TextToSsfWf
 
